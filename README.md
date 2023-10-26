@@ -5,14 +5,14 @@ Install Python of the latest version.
 Install Jupiter Notebook or any other according to your comfort.
 Install the necessary libraries.
 # Library/Package required
-$Pandas
-$NumPy
-$Re (regular expressions)
-$Seaborn
-$matplotlib
-$textblob
-$NLTK
-$Wordcloud
-$Scikit-learn
+$ Pandas
+$ NumPy
+$ Re (regular expressions)
+$ Seaborn
+$ matplotlib
+$ textblob
+$ NLTK
+$ Wordcloud
+$ Scikit-learn
 # From where you can download the required CSV file(data set)
 We have downloaded the data set from Kaggle website -> https://www.kaggle.com
